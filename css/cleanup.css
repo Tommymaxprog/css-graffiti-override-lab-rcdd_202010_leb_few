@@ -11,12 +11,12 @@
 #wall #tag-4 {
   display: none;
 }
-#wall #tag-5 {
+#.parent #tag-5 {
   display: none;
 }
-#wall #tag-6 {
+.parent #tag-6 {
   display: none;
 }
-.class #tag-7 {
+.parent #tag-7 {
   display: none;
 }
